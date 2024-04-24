@@ -3,7 +3,7 @@ execute as @s at @s anchored eyes run summon minecraft:fireball ^ ^ ^1 {Tags:[sh
 execute as @s at @s run playsound minecraft:entity.blaze.shoot hostile @s
 
 # クールタイムを設定
-scoreboard players add @s firerod_cooltime 20
+scoreboard players add @s fire_rod.cooltime 20
 
 # 「原点 + playerの向いてる方向の2m先」にマーカーを呼び出す。この座標を後でMotion値に代入
 execute rotated as @s positioned 0.0 0.0 0.0 run summon minecraft:marker ^ ^ ^2 {Tags:[set_motion]}
