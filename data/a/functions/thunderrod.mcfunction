@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name: "雷"}, tag: "Thunder"}

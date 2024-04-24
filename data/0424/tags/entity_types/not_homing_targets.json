@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:armor_stand",
+    "minecraft:experience_orb",
+    "minecraft:experience_bottle",
+    "minecraft:fireball",
+    "minecraft:glow_item_frame",
+    "minecraft:horse",
+    "minecraft:item",
+    "minecraft:minecart",
+    "minecraft:player"
+  ]
+}
